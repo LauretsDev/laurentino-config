@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Laurentino accounts related Prod APIs"
+  message: "Welcome to Laurentino accounts related webhook APIs"
   contactDetails:
     name: "Peter Dinkle - Prod Lead"
     email: "{cipher}88e9dc064f475313be953ad5914169ab03901a16099aa484b51efe451f53c7d5357dcb3a55dbf115cebd0a586da38596"
