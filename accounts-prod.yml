@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Laurentino accounts related Prod APIs"
   contactDetails:
     name: "Peter Dinkle - Prod Lead"
-    email: "peter.dinkle123@gmail.com"
+    email: "{cipher}88e9dc064f475313be953ad5914169ab03901a16099aa484b51efe451f53c7d5357dcb3a55dbf115cebd0a586da38596"
   onCallSupport:
     - (555) 555-5555
     - (666) 666-6666
