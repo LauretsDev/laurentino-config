@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Laurentino accounts related QA APIs"
+  contactDetails:
+    name: "Sara Ray - QA Lead"
+    email: "sara.ray123@gmail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (666) 666-6666

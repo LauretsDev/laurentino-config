@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Laurentino accounts related APIs"
+  contactDetails:
+    name: "Diego Laurentino - Developer"
+    email: "diego.laurentino@gmail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (666) 666-6666
+
