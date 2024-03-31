@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Laurentino accounts related default APIs"
+  message: "Welcome to Laurentino accounts related APIs"
   contactDetails:
     name: "Diego Laurentino - Developer"
     email: "{cipher}3e0e208670bf06204219f1019f6bc5c91b62401a14c8882528a8ee0c09c19092e5effd4c5d0aa2025c9e0c0c4c59f4a6"
